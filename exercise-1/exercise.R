@@ -3,12 +3,13 @@
 # Create a vector of the number of points the Seahawks scored in each game this
 # season (google "Seahawks" for the info!)
 
-
+points <- c(12,3,37,27)
 # Create a vector of the number of points the Seahwaks have allowed to be scored
 # against them in each game this season
 
-
+points.allowed <- c(10,9,)
 # Combine your two vectors into a dataframe
+
 
 
 # Create a new column "diff" that is the difference in points.
